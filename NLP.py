@@ -24,6 +24,7 @@ browsers = {
     'chromium': appdata + '\\Chromium\\User Data',
     'chrome-canary': appdata + '\\Google\\Chrome SxS\\User Data',
     'chrome': appdata + '\\Google\\Chrome\\User Data',
+    'chrome w': appdata + '\\Google\\Chrome\\User Data\\Default',
     'epic-privacy-browser': appdata + '\\Epic Privacy Browser\\User Data',
     'msedge': appdata + '\\Microsoft\\Edge\\User Data',
     'msedge-canary': appdata + '\\Microsoft\\Edge SxS\\User Data',
